@@ -22,7 +22,6 @@ typedef unsigned long long int int64;
 #define $i (int)
 
 typedef unsigned short int Reg;
-
 struct s_registers {
     Reg ax;
     Reg bx;

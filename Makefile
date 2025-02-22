@@ -1,4 +1,4 @@
-flags=-O2 -Wall -std=c2x
+flags=-O2 -Wall -std=c2x -I./include
 ldflags=-lbu
 
 .PHONY: all clean
